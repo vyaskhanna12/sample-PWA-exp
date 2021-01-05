@@ -1,2 +1,2 @@
 # sample-PWA-exp
-sample PWA code experimental
+sample PWA code experimental examples
